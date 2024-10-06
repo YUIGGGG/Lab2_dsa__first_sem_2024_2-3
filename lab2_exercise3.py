@@ -1,5 +1,6 @@
 number = int(input("Enter any number: "))
 
+
 for i in range(1, number + 1):
     for j in range(1, number + 1):
         # Print '*' on the borders (first row, last row, first column, or last column)
